@@ -1,0 +1,8 @@
+.vscode
+Embededded/.pio
+Embededded/.vscode/.browse.c_cpp.db*
+Embededded/.vscode/c_cpp_properties.json
+Embededded/.vscode/launch.json
+Embededded/.vscode/ipch
+Embededded/include/env.h
+MartinVenv
